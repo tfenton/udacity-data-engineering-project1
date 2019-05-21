@@ -65,7 +65,7 @@ python etl.py
 
 Tests are available using python's builtin unittest framework. These tests will verify that all tables exist, the data base can be connected to and that the create statements don't generate an error when run multiple times.
 
-````
+```
 python tests.py
 ........
 ----------------------------------------------------------------------
